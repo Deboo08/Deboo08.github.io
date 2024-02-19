@@ -10,9 +10,12 @@ title: Hobbies
 
 <div class="third">
 <img src="/images/篮球1.jpg">
+<img src="/images/篮球4.jpg">
+<div style="margin-bottom: 20px;"></div>
 <img src="/images/篮球2.jpg">
+<img src="/images/篮球3.jpg">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<br>
 
 ## Guitar && Sing
 
@@ -29,5 +32,7 @@ title: Hobbies
 ## Games
 
 I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+
+## Boxing && Chinese Kung Fu
 
 
