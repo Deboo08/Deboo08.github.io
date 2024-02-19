@@ -8,7 +8,7 @@ layout: page
 
 Hi! This is **Tao Huang (Jon, 黄韬)**.
 
-Now I am a junior student majoring in **Multimedia, Mobile and Web Development** at Fuzhou University and National Maynooth University (Ireland). Currently I am working on becoming a Front-end Development engineer, Meanwhile, I also have strong interest in Human Computer/Technology, Virtual Reality and software developments. 
+Now I am a junior student majoring in **Multimedia, Mobile and Web Development** at Fuzhou University and National Maynooth University (Ireland). Currently I am working on becoming a Front-end Development engineer, Meanwhile, I also have strong interest in Human Computer/Technology Interaction, Virtual Reality and software developments. 
 
 Besides, I am a huge fan of guitar, basketball, NBA, sneakers and all sorts of ball games, so if you have same interests, you can contact me at **TAO.HUANG.2022@MUMAIL.IE** .
 
