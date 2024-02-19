@@ -9,8 +9,8 @@ title: Hobbies
 ## Basketball
 
 <div class="third">
-<img style = "margin-right:1vw; height: 35vh;" src="https://Deboo08.github.io/images/篮球1.jpg">
-<img style = "height: 35vh;" src= "https://Deboo08.github.io/images/篮球4.jpg">
+<img style = "margin-right:1vw; height: 32vh;" src="https://Deboo08.github.io/images/篮球1.jpg">
+<img style = "height: 32vh;" src= "https://Deboo08.github.io/images/篮球4.jpg">
 </div>
 <br>
 Basketball is the best friend of my life. For me, basketball has given me something that other people and things cannot provide in my life. Basketball is not only a way for me to relax and make friends, but it has also become a way of life for me. I have been playing basketball for ten years. It has caused me to sprain my ankles several times and injure my knees multiple times, but it still cannot hinder my love for it.
