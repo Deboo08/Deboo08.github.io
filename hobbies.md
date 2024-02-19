@@ -13,28 +13,26 @@ title: Hobbies
 <img style = "height: 35vh;" src= "https://Deboo08.github.io/images/篮球4.jpg">
 </div>
 <br>
+Basketball is the best friend of my life. For me, basketball has given me something that other people and things cannot provide in my life. Basketball is not only a way for me to relax and make friends, but it has also become a way of life for me. I have been playing basketball for ten years. It has caused me to sprain my ankles several times and injure my knees multiple times, but it still cannot hinder my love for it.
 
----
 
 ## Guitar && Sing
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img style = "margin-right:1vw; height: 18vh;" src="https://Deboo08.github.io/images/唱歌3.jpg">
+<img style = "margin-right:1vw; height: 18vh;" src="https://Deboo08.github.io/images/唱歌4.jpg">
+<img style = "margin-right:1vw; height: 18vh;" src="https://Deboo08.github.io/images/吉他1.jpg">
 </div>
 <br>
-There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+Guitar and singing are also important friends in my life. I have tried to create my own songs and have performed on stage several times in high school and college. For me, they are an indispensable part of my life.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+[My national karaoke account, welcome if you don't my common songs]:https://kg.qq.com/node/personal?uid=609e9d80252c3f8a31
 
----
 
 ## Games
 
 I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
----
 
 ## Boxing && Chinese Kung Fu
 
