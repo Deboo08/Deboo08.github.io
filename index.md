@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://Deboo08.github.io/HT3.jpg" class="floatpic" width="360" height="480">
+<img src="https://Deboo08.github.io/证件照.jpg" class="floatpic" width="360" height="480">
 
-Hi! Here is **Tao Huang (Jon, 黄韬)**.
+Hi! This is **Tao Huang (Jon, 黄韬)**.
 
 Now I am a junior student majoring in **Multimedia, Mobile and Web Development** at Fuzhou University and National Maynooth University (Ireland). Currently I am working on becoming a front-end development engineer, Meanwhile, I also have strong interest in Human Computer/Technology, Virtual Reality and other development. 
 
