@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Deboo08.github.io/证件照2.jpg" class="floatpic" width="360" height="480">
+<img src="https://Deboo08.github.io/HT1.jpg" class="floatpic" width="360" height="480">
 
 Here is **Tao Huang (Jon, 黄韬)**.
 
