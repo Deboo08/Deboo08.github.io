@@ -8,14 +8,14 @@ layout: page
 
 Hi! This is **Tao Huang (Jon, 黄韬)**.
 
-Now I am a junior student majoring in **Multimedia, Mobile and Web Development** at Fuzhou University and National Maynooth University (Ireland). Currently I am working on becoming a front-end development engineer, Meanwhile, I also have strong interest in Human Computer/Technology, Virtual Reality and other development. 
+Now I am a junior student majoring in **Multimedia, Mobile and Web Development** at Fuzhou University and National Maynooth University (Ireland). Currently I am working on becoming a Front-end Development engineer, Meanwhile, I also have strong interest in Human Computer/Technology, Virtual Reality and software developments. 
 
-Besides, I am a huge fan of basketball, NBA, sneakers and all sorts of ball games, so if you have same interests you can contact me at **TAO.HUANG.2022@MUMAIL.IE** .
+Besides, I am a huge fan of guitar, basketball, NBA, sneakers and all sorts of ball games, so if you have same interests, you can contact me at **TAO.HUANG.2022@MUMAIL.IE** .
 
-## Academic Background
+## Educational Background
 
-- **Sep 2020 - June 2024:** National Maynooth University (BSc)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
+- **Sep 2020 - June 2024:** National Maynooth University (BSc)
 <br>
 
 ---
@@ -26,10 +26,12 @@ Besides, I am a huge fan of basketball, NBA, sneakers and all sorts of ball game
 - Human Computer/Technology
 - Virtual Reality
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+Currently I am learning full stack front-end development skills, including but not limited to Vue, React, Typescript, meanwhile, I am learning basic operating systems and computer networks. I am still learning psychology that may be helpful for my future education. Furthermore, I am also looking for some suitable taught master's programs.
 <br>
 
 ---
 
-## Hobbies
+## Skills
+- **Front-end development**: master HTML5, CSS3, JavaScript, familiar with CSS box model, selector, and responsive layout; Familiar with React technology stack (Hook, Router, LocalStorage, Axios), familiar with React components, state management, virtual DOM, event processing, page jump, etc.
+- **Back-end development**: familiar with Java basic syntax, understand common software design patterns; I have used MySQL and SQL Server database, familiar with the operation of adding, deleting, modifying and checking SQL, and can write SQL statements.
+- **English proficiency**: IELTS 7.
