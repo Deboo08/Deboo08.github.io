@@ -16,8 +16,8 @@ Besides, I am a huge fan of guitar, basketball, NBA, sneakers and all sorts of b
 
 ## Educational Background
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** National Maynooth University (BSc)
+- **Sep 2021 - June 2025:** Fuzhou University (BEng)
+- **Sep 2021 - June 2025:** National Maynooth University (BSc)
 <br>
 
 ---
