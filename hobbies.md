@@ -31,7 +31,7 @@ Guitar and singing are also important friends in my life. I have tried to create
 
 ## Games
 
-.
+My favorite mobile game is "Legends of the Three Kingdoms." It is a game that encompasses historical allusions, historical knowledge, literary knowledge, and fun. I really enjoy it. Despite the unattractive behavior of its development company, it doesn't prevent it from being a great game.
 
 
 ## Boxing && Chinese Kung Fu
