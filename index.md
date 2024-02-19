@@ -12,6 +12,8 @@ Now I am a junior student majoring in **Multimedia, Mobile and Web Development**
 
 Besides, I am a huge fan of guitar, basketball, NBA, sneakers and all sorts of ball games, so if you have same interests, you can contact me at **TAO.HUANG.2022@MUMAIL.IE** .
 
+---
+
 ## Educational Background
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
