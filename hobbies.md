@@ -9,9 +9,8 @@ title: Hobbies
 ## Basketball
 
 <div class="third">
+<img src="/images/篮球1.jpg">
 <img src="/images/篮球4.jpg">
-<img src="/images/篮球2.jpg">
-<img src="/images/篮球3.jpg">
 </div>
 <br>
 
