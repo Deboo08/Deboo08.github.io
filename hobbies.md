@@ -25,8 +25,7 @@ Basketball is the best friend of my life. For me, basketball has given me someth
 <br>
 Guitar and singing are also important friends in my life. I have tried to create my own songs and have performed on stage several times in high school and college. For me, they are an indispensable part of my life.
 
-
-**[My national karaoke account, welcome if you don't mind my common songs]**(https://kg.qq.com/node/personal?uid=609e9d80252c3f8a31)
+**[My national karaoke account, welcome if you don't mind my common songs](https://kg.qq.com/node/personal?uid=609e9d80252c3f8a31)**
 
 
 ## Games
@@ -37,7 +36,7 @@ My favorite mobile game is "Legends of the Three Kingdoms." It is a game that en
 ## Boxing && Chinese Kung Fu
 
 <div class="third">
-<img src="https://Deboo08.github.io/images/功夫1.jpg">
+<img style = "width: 25vw;" src="https://Deboo08.github.io/images/功夫1.jpg">
 </div>
 <br>
 Boxing and Chinese Kung Fu are also among my favorite ways to exercise. They help me build confidence, increase self-awareness, and maintain physical fitness.
