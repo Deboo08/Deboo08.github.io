@@ -9,8 +9,8 @@ title: Hobbies
 ## Basketball
 
 <div class="third">
-<img style = "margin-right:10px; height: 25vh;" src="https://Deboo08.github.io/images/篮球1.jpg">
-<img style = "height: 25vh;" src= "https://Deboo08.github.io/images/篮球4.jpg">
+<img style = "margin-right:1vw; height: 35vh;" src="https://Deboo08.github.io/images/篮球1.jpg">
+<img style = "height: 35vh;" src= "https://Deboo08.github.io/images/篮球4.jpg">
 </div>
 <br>
 
