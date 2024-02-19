@@ -6,15 +6,15 @@ layout: page
 
 <img src="https://Deboo08.github.io/HT1.jpg" class="floatpic" width="360" height="480">
 
-Here is **Tao Huang (Jon, 黄韬)**.
+Hi! Here is **Tao Huang (Jon, 黄韬)**.
 
-Now I am a junior student majoring in **** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
+Now I am a junior student majoring in **Multimedia, Mobile and Web Development** at Fuzhou University and National Maynooth University(Ireland). Currently I am working on becoming a front-end development engineer, Meanwhile, I also have strong interest in Human computer/Technology and Virtual Reality. Besides, I am a huge fan of basketball, NBA, sneakers and all sorts of ball games, so contact me if you have same interests.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *TAO.HUANG.2022@MUMAIL.IE*
 
 ## Academic Background
 
-- **Sep 2020 - June 2024:**National Maynooth University (BSc)
+- **Sep 2020 - June 2024:** National Maynooth University (BSc)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
 <br>
 
