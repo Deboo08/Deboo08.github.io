@@ -19,14 +19,14 @@ Basketball is the best friend of my life. For me, basketball has given me someth
 ## Guitar && Sing
 
 <div class="third">
-<img style = "margin-right:1vw; height: 16vh;" src="https://Deboo08.github.io/images/唱歌3.jpg">
-<img style = "margin-right:1vw; height: 16vh;" src="https://Deboo08.github.io/images/唱歌4.jpg">
-<img style = "margin-right:1vw; height: 16vh;" src="https://Deboo08.github.io/images/吉他1.jpg">
+<img style = "margin-right:1vw; height: 18vh; width: 25vw" src="https://Deboo08.github.io/images/唱歌3.jpg">
+<img style = "margin-right:1vw; height: 18vh; width: 25vw" src="https://Deboo08.github.io/images/唱歌4.jpg">
+<img style = "margin-right:1vw; height: 18vh; width: 28vw" src="https://Deboo08.github.io/images/吉他1.jpg">
 </div>
 <br>
 Guitar and singing are also important friends in my life. I have tried to create my own songs and have performed on stage several times in high school and college. For me, they are an indispensable part of my life.
 
-My national karaoke account, welcome if you don't my common songs: https://kg.qq.com/node/personal?uid=609e9d80252c3f8a31
+[My national karaoke account, welcome if you don't my common songs]:(https://kg.qq.com/node/personal?uid=609e9d80252c3f8a31)
 
 
 ## Games
