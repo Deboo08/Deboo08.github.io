@@ -28,12 +28,16 @@ Besides, I am a huge fan of guitar, basketball, NBA, sneakers and all sorts of b
 - Human Computer/Technology Interaction
 - Virtual Reality
 
-Currently I am learning full stack front-end development skills, including but not limited to Vue, React, Typescript, meanwhile, I am learning basic operating systems, computer networks and psychology that may be helpful for my future education. Furthermore, I am also looking for some suitable taught master's programs.
+Currently I am learning full stack front-end development skills, including but not limited to Vue, React, Typescript, meanwhile, I am learning basic data structure, operating systems, computer networks and psychology that may be helpful for my future education. Furthermore, I am also looking for some suitable taught master's programs.
 <br>
 
 ---
 
 ## Skills
-- **Front-end development**: master HTML5, CSS3, JavaScript, familiar with CSS box model, selector, and responsive layout; Familiar with React technology stack (Hook, Router, LocalStorage, Axios), familiar with React components, state management, virtual DOM, event processing, page jump, etc.
-- **Back-end development**: familiar with Java basic syntax, understand common software design patterns; I have used MySQL and SQL Server database, familiar with the operation of adding, deleting, modifying and checking SQL, and can write SQL statements.
-- **English proficiency**: IELTS 7.
+- **Front-end development**: Proficient in HTML5, CSS3, JavaScript, including CSS box model, selectors, and responsive layout. Experienced with React (Hooks, Router, LocalStorage, Axios) and Vue.js (Vue Router, Vuex, Vue CLI), adept at building single-page applications.
+- **Back-end development**: Proficient in Java syntax and object-oriented programming principles for building robust backend solutions. Experienced in implementing RESTful APIs and applying software design patterns such as MVC, Singleton, Factory, and Observer for creating scalable and maintainable applications.
+- **Basic Algorithms**: Strong understanding of fundamental algorithms and data structures, covering sorting, searching, and graph algorithms.
+- **Database Management**: Proficient in MySQL and SQL Server, skilled in writing SQL queries for data manipulation and management.
+- **UI/UX Design**: Knowledgeable in UI/UX design principles, proficient in Figma and Pixso for creating prototype diagrams and graphics.
+- **Photoshop (PS) & Premiere Pro (PR)**: Proficient in Adobe Photoshop and Illustrator for graphic design and image editing.
+- **English Proficiency**: IELTS 7.

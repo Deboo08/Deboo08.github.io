@@ -17,6 +17,8 @@ title: Hobbies
 </div>
 <br>
 
+---
+
 ## Guitar && Sing
 
 <div class="third">
@@ -28,10 +30,13 @@ title: Hobbies
 
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
+---
 
 ## Games
 
 I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+
+---
 
 ## Boxing && Chinese Kung Fu
 
