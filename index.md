@@ -26,7 +26,7 @@ Besides, I am a huge fan of guitar, basketball, NBA, sneakers and all sorts of b
 - Human Computer/Technology
 - Virtual Reality
 
-Currently I am learning full stack front-end development skills, including but not limited to Vue, React, Typescript, meanwhile, I am learning basic operating systems and computer networks. I am still learning psychology that may be helpful for my future education. Furthermore, I am also looking for some suitable taught master's programs.
+Currently I am learning full stack front-end development skills, including but not limited to Vue, React, Typescript, meanwhile, I am learning basic operating systems and computer networks and psychology that may be helpful for my future education. Furthermore, I am also looking for some suitable taught master's programs.
 <br>
 
 ---
