@@ -20,8 +20,6 @@ DeMar Darnell DeRozan (born August 7, 1989) is an American professional basketba
 
 ## For me
 
-Delmar is not just an outstanding basketball player, but also an idol who provides me with spiritual support. Among countless excellent players, his experiences evoke my sympathy. Losing his father, his mother falling ill, breaking up with his girlfriend, battling depression, and being abandoned by a team he had been loyal to for nine years. But after going through all of this, he still didn't give up on himself, persevered in training, helped his teammates, played hard, and did his best to help the team. His spirit and courage are admirable to me.
-
-In him, I seem to see another self. Ordinary, average, with a few highlights but not many. Delmar showed me his resilience and perseverance in life.
-
-Keep it up, Delmar! I hope to see one of your live games in person during my lifetime.
+DeMar is not just an outstanding basketball player, but also an idol who provides me with spiritual support. Among countless excellent players, his experiences evoke my sympathy. Losing his father, his mother falling ill, breaking up with his girlfriend, battling depression, and being abandoned by a team he had been loyal to for nine years. But after going through all of this, he still didn't give up on himself, persevered in training, helped his teammates, played hard, and did his best to help the team. His spirit and courage are admirable to me.
+In him, I seem to see another self. Ordinary, average, with a few highlights but not many. DeMar showed me his resilience and perseverance in life.
+Keep it up, DeMar! I hope to see one of your live games in person during my lifetime.
