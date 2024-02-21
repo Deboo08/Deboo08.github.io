@@ -38,5 +38,5 @@ Currently I am learning full stack front-end development skills, including but n
 - **Basic Algorithms**: Understanding of fundamental algorithms and data structures, covering sorting, searching, and graph algorithms.
 - **Database Management**: Proficient in MySQL and SQL Server, skilled in writing SQL queries for data manipulation and management.
 - **UI/UX Design**: Knowledgeable in UI/UX design principles, proficient in Figma and Pixso for creating prototype diagrams and basic graphics.
-- **Other Softwares**: Proficient in Adobe Photoshop and Premiere Pro for video and image editing.
+- **Other Softwares**: Proficient in Adobe Photoshop and Adobe Premiere Pro for video and image editing.
 - **English Proficiency**: IELTS 7.
