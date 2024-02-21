@@ -19,7 +19,7 @@ DeMar Darnell DeRozan (born August 7, 1989) is an American professional basketba
 ----From Wikipedia, the free encyclopedia
 
 <div class="third">
-<img style = "margin-right:1vw;" src="https://Deboo08.github.io/images/DDR1.jpg">
+<img style = "margin-right:1vw;" src="https://Deboo08.github.io/images/DDR6.jpg">
 <img src="https://Deboo08.github.io/images/DDR3.jpg">
 </div>
 <br>
