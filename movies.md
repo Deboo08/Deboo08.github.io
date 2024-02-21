@@ -1,5 +1,5 @@
 ---
 layout: page
-permalink: /movies/index.html
+permalink: /Movies/index.html
 title: Movies
 ---
