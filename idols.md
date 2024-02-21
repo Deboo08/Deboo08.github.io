@@ -8,7 +8,7 @@ title: Idols
 
 <div class="third">
 <img style = "margin-right:1vw;" src="https://Deboo08.github.io/images/DDR2.jpg">
-<img src="https://Deboo08.github.io/images/DDR5.jpg">
+<img src="https://Deboo08.github.io/images/DDR4.jpg">
 </div>
 <br>
 
