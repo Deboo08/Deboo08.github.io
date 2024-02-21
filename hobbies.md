@@ -13,7 +13,7 @@ title: Hobbies
 <img src= "https://Deboo08.github.io/images/篮球4.jpg">
 </div>
 <br>
-Basketball is the best friend of my life. For me, basketball has given me something that other people and things cannot provide in my life. Basketball is not only a way for me to relax and make friends, but it has also become a way of life for me. I have been playing basketball for ten years. It has caused me to sprain my ankles several times and injure my knees multiple times, but it still cannot hinder my love for it.
+Basketball is always the best friend of my life. For me, basketball has given me something that other people and things cannot provide in my life. Basketball is not only a way for me to relax and make friends, but it has also become a way of life for me. I have been playing basketball for ten years. It has caused me to sprain my ankles several times and injure my knees multiple times, but it still cannot hinder my love for it.
 
 
 ## Guitar && Singing
