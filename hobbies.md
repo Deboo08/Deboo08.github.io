@@ -31,7 +31,8 @@ Guitar and singing are also important friends in my life. I have tried to create
 ## Games
 
 <div class="third">
-<img src="https://Deboo08.github.io/images/三国杀1.jpg">
+<img style = "margin-right:1vw;" src="https://Deboo08.github.io/images/三国杀1.jpg">
+<img src="https://Deboo08.github.io/images/三国杀2.jpg">
 </div>
 <br>
 My favorite mobile game is "Legends of the Three Kingdoms." It is a game that encompasses historical allusions, historical knowledge, literary knowledge, and fun. I really enjoy it. Despite the unattractive behavior of its development company, it doesn't prevent it from being a great game.
