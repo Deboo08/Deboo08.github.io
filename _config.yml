@@ -8,33 +8,12 @@ title: Tao Huang
 owner:
   name: Tao Huang
   avatar: 证件照4.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
   email: TAO.HUANG.2022@MUMAIL.IE
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: deboo0887195
   github: Deboo08
-  # linkedin: hanlincai
-  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: https://space.bilibili.com/1473795213
-  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/xie-gu-cheng-19-49
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
-
-# Links to include in top navigation
-# For external links add external: true
 links:
   - title: About Me
     url: /
@@ -47,16 +26,10 @@ links:
   - title: Movies
     url: /Movies/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
 highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
 
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
 
@@ -66,16 +39,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
-
-
-# disqus settings:
+  
 disqus:
   shortname: jonhuang
 
