@@ -10,7 +10,7 @@ title: Blogs
 
 ### About Study
 
-- [React学习笔记 1](https://Deboo08.github.io/blogs/React学习笔记1.md)
+- [JavaScript学习笔记 1](https://Deboo08.github.io/blogs/React学习笔记1.md)
 
 ### About Movies
 
